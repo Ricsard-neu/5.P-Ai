@@ -1,0 +1,9 @@
+Alakzatfelismerő
+Mit tud majd a program? 
+Képes lesz felismerni különböző alakzatokat.
+
+Miért hasznos?
+Általános probléma a mindennapokban hogy nem tudjuk az elnevezéseket az alakzatokat ezért keszitjuk ezt a programot.
+
+Melyik elkészített MI Python alapot használjuk?
+Még nem döntöttük el.
